@@ -1,2 +1,2 @@
-Git is a version control system
+Git ersion control system
 Git ee software
