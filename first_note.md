@@ -1,1 +1,1 @@
-it is a beautiful day today!
+it is a bad day today!
